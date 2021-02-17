@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Nicola 👋
+Learning how to play in the clouds. 
 
 <!--
 **NHA100/NHA100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
